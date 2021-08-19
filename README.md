@@ -1,2 +1,2 @@
-# Assignment-Day2
-My Day2 assignment for react JS 
+# Assignment-Day3
+My Day3 assignment for react JS 
